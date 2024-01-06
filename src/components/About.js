@@ -39,10 +39,10 @@ const About = () => {
             viewport={{ once: true }}
           >
             <p className="pt-3 text-sm leading-6 text-gray-light lg:text-[0.95rem]">
-              Forte d'une expérience de <span className="inline-block pt-1 leading-4 text-gray-dark  "> 9 ans en marketing digital,</span> j'ai acquis une expertise dans la conception de stratégies impactantes et la gestion de campagnes performantes.
+              Forte d&aposune expérience de <span className="inline-block pt-1 leading-4 text-gray-dark  "> 9 ans en marketing digital,</span> j&aposai acquis une expertise dans la conception de stratégies impactantes et la gestion de campagnes performantes.
             </p>
             <p className="pt-3 text-sm leading-6 text-gray-light lg:text-[0.95rem]">
-              Fascinée par le développement Front-End, je me suis formée et j’ai plongé dans l’univers offert par
+              Fascinée par le développement Front-End, je me suis formée et j&aposai plongé dans l&aposunivers offert par
               {" "}
               <span className="inline-block pt-1 leading-4 text-gray-dark shadow-[inset_0px_-6px_0px] shadow-pink-ultra-light">
                 React,
@@ -60,7 +60,7 @@ const About = () => {
               </span>{" "}
               pour créer des applications web performantes. </p>
             <p className="pt-3 text-sm leading-6 text-gray-light lg:text-[0.95rem]">
-              Ma curiosité et ma creativité m’inspirent à concevoir des interfaces utilisateurs uniques et captivantes.
+              Ma curiosité et ma creativité m&aposinspirent à concevoir des interfaces utilisateurs uniques et captivantes.
             </p>
             <p className="pt-3 text-sm leading-6 text-gray-light lg:text-[0.95rem]">
 
@@ -69,7 +69,7 @@ const About = () => {
             </p>
 
             <p className="pt-3  text-sm leading-6 text-gray-light lg:text-[0.95rem]">
-              N'hésitez pas à explorer mon portfolio pour découvrir mon
+              N&aposhésitez pas à explorer mon portfolio pour découvrir mon
               univers. Je reste toujours motivée à participer à de nouveaux projets, à apprendre de nouvelles technologies et à travailler avec des esprits créatifs.
             </p>
           </motion.div>
