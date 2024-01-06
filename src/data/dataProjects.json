@@ -1,0 +1,123 @@
+[
+
+    {
+      "id": "1",
+      "title": "Booki",
+      "client": "L’entreprise souhaite développer un site Internet qui permette aux usagers de trouver des hébergements et des activités dans la ville de leur choix.",
+      "presentation": "Booki est un projet web qui vise à simplifier la recherche d'hébergements et d'activités dans une ville en particulier. Mon rôle était d'intégrer l'interface du site avec du code HTML et CSS. Pour cela, je travaillais en étroite collaboration avec Sarah, la CTO, et Loïc, l’UI designer. ",
+      "overview": "Implémenter une interface responsive avec HTML et CSS. \nUtilisation de Flexbox et Grid pour créer une mise en page correspondant à la maquette FIGMA. ",
+      "github": "https://github.com/Sanaa325/P3_BOOKI_Ahdour_Sanaa-2-2",
+      "website": "https://sanaa325.github.io/P3_BOOKI_Ahdour_Sanaa-2-2/",
+      "tags": ["HTML5", "CSS3", "Responsive Web Design", "Figma"],
+      "img_cover": "images/booki.png",
+      "img_info": "images/banner_booki.png"
+    },
+  
+    {
+      "id": "2",
+      "title": "Kasa",
+      "client": "Entreprise de locations d’appartements entre particuliers en France.",
+      "presentation": "En tant que développeuse front-end sur le projet Kasa, je devais développer la nouvelle plateforme web. Mon rôle était de concevoir une plateforme web en utilisant React pour le côté front-end, et Node.js pour le côté backend, ainsi que des maquettes fournies par le designer.",
+      "overview": "Modernisation de la plateforme existante, en développant des éléments de l’interface du site web grâce à des composants React: carrousel pour afficher des images de logements, collapse, gestion dynamique de cartes de logements. \nConfigurer la navigation entre les pages de l'application avec React Router. \nDévelopper une interface web avec Sass. \nIntegration d’animations CSS",
+      "github": "https://github.com/Sanaa325/Projet-8",
+      "website": "https://kasa-p8.vercel.app/",
+      "tags": [
+        "React",
+        "Node.js",
+        "Sass",
+        "Responsive Web Design",
+        "Figma",
+        "Animations CSS"
+      ],
+      "img_cover": "images/kasa.png",
+      "img_info": "images/banner_kasa.png"
+    },
+   
+    {
+      "id": "4",
+      "title": "Sophie Bluel",
+      "client": "Agence ArchiWebos",
+      "presentation": "En tant que développeuse front-end, j'ai aidé une équipe à finaliser le site portfolio d’une architecte d’intérieur.",
+      "overview": "Utilisation de JavaScript pour: Création de la page de présentation des travaux de l'architecte, options de filtrage par catégories, \nDéveloppement de la page de connexion sécurisée par authentification, \nConception d'une modale permettant à l'architecte d'ajouter ou de supprimer des projets.",
+      "github": "https://github.com/Sanaa325/Projet-6",
+      "tags": [
+        "Node.js",
+        "Figma",
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "JWT",
+        "Swagger"
+      ],
+      "img_cover": "images/sophie.png",
+      "img_info": "images/banner_sophieBluel.png"
+    },
+    {
+      "id": "5",
+      "title": "Oh My Food!",
+      "client": "Startup.",
+      "presentation": "OhMyFood est une startup de restauration qui souhaite développer un site répertoriant les menus de restaurants gastronomiques. En plus des systèmes classiques de réservation, les clients pourront composer le menu de leur repas pour que les plats soient prêts à leur arrivée. Mon rôle en tant que développeuse était de développer le site “mobile first” et de respecter les maquettes fournies par l'équipe UX designer.",
+      "overview": "Intégrer une maquette en mobile-first c'est-à- dire prioriser l'optimisation de l'expérience utilisateur sur les appareils mobiles. \nMettre en œuvre des animations CSS pour rendre le site encore plus attrayant et améliorer l'interactivité du site. \nVersionner son projet avec Git et Github",
+      "github": "https://github.com/Sanaa325/P4-OHMYFOOD",
+      "website": "https://sanaa325.github.io/P4-OHMYFOOD/",
+      "tags": ["HTML5", "CSS3", "Responsive Web Design", "Animations"],
+      "img_cover": "images/ohmyfood.png",
+      "img_info": "images/banner_ohmyfood.png"
+    },
+  
+    {
+      "id": "6",
+      "title": "Nina Carducci",
+      "client": "Nina Carducci, phototgraphe professionnelle",
+      "presentation": "Nina Carducci est le site web d'une photographe professionnelle. Le site présente le portfolio de Nina et met en valeur ses réalisations.",
+      "overview": "Faire une optimisation globale du site tant sur les performances que sur le SEO. \nMettre en place le référencement local en utilisant Schema.org. \nAjouter les metas pour les réseaux sociaux. \nIntégration du Rich Snippet pour une meilleure visibilité sur les moteurs de recherche, et effectuer une analyse approfondie avec Wave. \nFaire rapport d’optimisation montrant : les performances du site avant et après optimisations (en me basant sur un audit Lighthouse et un audit Wave pour l’accessibilité) et la liste des modifications que j’ai apportées au site.",
+      "github": "https://github.com/Sanaa325/ninacarducci.github.io-main",
+      "website": "https://sanaa325.github.io/ninacarducci.github.io-main/",
+      "tags": [
+        "Optimisation web",
+        "SEO",
+        "Référencement local",
+        "Rich Snippet",
+        "Wave",
+        "Lighthouse",
+        "Accessibilité"
+      ],
+      "img_cover": "images/nina.png",
+      "img_info": "images/banner-nina.jpg"
+    },
+  
+    {
+      "id": "7",
+      "title": "724events",
+      "client": "L'agence évènementielle 724events.",
+      "presentation": "L'agence 724events souhaite publier la nouvelle version de son site vitrine. Je devais résoudre les problèmes techniques et optimiser le site pour répondre pleinement aux besoins de l'agence.",
+      "overview": "Analyse approfondie du code source existant pour identifier les bugs techniques. \nDébugger un site web grâce aux Chrome DevTools. \nOptimiser le site web de 724events. \nRéalisation de tests unitaires pour vérifier chaque composant du site (tests de navigation, de formulaire…). \nRédiger un cahier de recette pour tester le site et vérifier que chaque fonctionnalité fonctionne comme prévu. ",
+      "github": "https://github.com/Sanaa325/Debuggez-une-application-React.JS-main",
+      "website": "https://debuggez-une-application-react-js-main-bacm2c110.vercel.app",
+      "tags": ["Débogage", "Optimisation", "Tests Unitaires", "React Dev Tools"],
+      "img_cover": "images/724.png",
+      "img_info": "images/banner-77events.png"
+    },
+  
+    {
+      "id": "8",
+      "title": "Menu Maker",
+      "client": "Qwenta, entreprise spécialisée dans les solutions numériques pour la restauration.",
+      "presentation": "Au sein de l'agence Webgencia, je devais mener, préparer et planifier le projet de développement du site Menu-Maker. ",
+      "overview": "Planification du projet Menu Maker en collaboration avec le Product Owner. \nCréation d'un plan de développement précis. \nMettre en place une méthode de veille technologique afin de  valider les choix techniques. \nRédiger les spécifications techniques d'un projet web à partir de besoins fonctionnels. \nMise en place d'une méthodologie agile. \nPrésenter la solution technique au chef de projet de Qwenta, en mettant en avant la solution technique retenue et les spécifications techniques. \nSuivre le déroulement du projet grâce à un outil de gestion de projet incluant un tableau Kanban pour suivre l'avancement des tâches.",
+      "tags": [
+        "Méthode agile",
+        "Scrum",
+        "Kanban",
+        "Notion",
+        "Flipboard",
+        "Outil de veille",
+        "Planification de projet",
+        "Spécifications techniques",
+        "Solutions techniques"
+      ],
+      "img_cover": "images/menumaker.png",
+      "img_info": "images/banner-qwenta.png"
+    }
+  ]
+  

@@ -1,0 +1,100 @@
+[
+    {
+      "id": "1",
+      "name": "Sass",
+      "title": "Sass",
+      "img": "/images/icons/sass.svg"
+    },
+  
+    {
+      "id": "2",
+      "name": "ES-JS",
+      "title": "Javascript",
+      "img": "/images/icons/javascript.png"
+    },
+  
+    {
+      "id": "3",
+      "name": "React",
+      "title": "React",
+      "img": "/images/icons/react.webp"
+    },
+  
+    {
+      "id": "4",
+      "name": "Node js",
+      "title": "Node js",
+      "img": "/images/icons/nodejs.webp"
+    },
+  
+    {
+      "id": "5",
+      "name": "Redux",
+      "title": "Redux",
+      "img": "/images/icons/redux.png"
+    },
+  
+    {
+      "id": "6",
+      "name": "Figma",
+      "title": "Figma",
+      "img": "/images/icons/figma.svg"
+    },
+  
+    {
+      "id": "7",
+      "name": "Tailwind",
+      "title": "Tailwind",
+      "img": "/images/icons/tailwind.png"
+    },
+  
+    {
+      "id": "8",
+      "name": "Next JS",
+      "title": "Next JS",
+      "img": "/images/icons/next-js.png"
+    },
+  
+    {
+      "id": "9",
+      "name": "Vs code",
+      "title": "Visual Studio Code",
+      "img": "/images/icons/vscode.webp"
+    },
+  
+    {
+      "id": "10",
+      "name": "RWD",
+      "title": "Responsive Web Design",
+      "img": "/images/icons/responsive.webp"
+    },
+
+    {
+      "id": "11",
+      "name": "SEO",
+      "title": "SEO",
+      "img": "/images/seo.png"
+    },
+
+    {
+      "id": "12",
+      "name": "Google Ads",
+      "title": "Google Ads",
+      "img": "/images/googleads.png"
+    },
+
+    {
+      "id": "13",
+      "name": "Canva",
+      "title": "Canva",
+      "img": "/images/canva.jpeg"
+    },
+
+    {
+      "id": "14",
+      "name": "Google Analytics",
+      "title": "Google Analytics",
+      "img": "/images/googlean.png"
+    }
+  ]
+  
