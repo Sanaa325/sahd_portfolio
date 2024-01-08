@@ -19,6 +19,27 @@ export const poppins = Poppins({
   variable: "--font-poppins",
 });
 
+export const metadata = {
+  title: "Sanaa A. | Portfolio ",
+  description:
+    "Je suis Sanaa A., intégratrice web front-end. Expertise en HTML, CSS, Javascript et React.",
+  themeColor: "black",
+  
+  metadataBase: new URL("https://sahd-portfolio.vercel.app/"),
+  openGraph: {
+    title: "Sanaa AHDOUR | Portfolio - développeuse web front-end",
+    description:
+      "Je suis Sanaa A., intégratrice web front-end. Expertise en HTML, CSS, Javascript et React.",
+    url: "https://sahd-portfolio.vercel.app/",
+    siteName: "Sanaa A., développeuse web",
+    locale: "fr_FR",
+    type: "website",
+  },
+  
+};
+
+
+
 export default function RootLayout({ children }) {
   return (
     <html lang="fr" className="scroll-smooth">
