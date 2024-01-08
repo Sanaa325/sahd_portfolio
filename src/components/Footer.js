@@ -1,7 +1,6 @@
 "use client";
 
 import React from "react";
-import { RiFilePdf2Fill } from "react-icons/ri";
 import { BiLogoGithub, BiLogoLinkedin, BiLogoGmail } from "react-icons/bi";
 import { motion } from "framer-motion";
 
@@ -54,21 +53,7 @@ const Footer = () => {
           </a>
         </motion.div>
 
-        <motion.div
-          initial={{ opacity: 0, y: -80 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5, delay: 0.4 }}
-          viewport={{ once: false }}
-        >
-          <a
-            href="/CV.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            title="Voir le CV pdf"
-          >
-            <RiFilePdf2Fill className="h-7 w-7 text-off-white transition-all duration-300 ease-in-out hover:brightness-75" />
-          </a>
-        </motion.div>
+        
       </div>
     </footer>
   );

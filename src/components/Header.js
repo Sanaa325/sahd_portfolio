@@ -5,7 +5,6 @@ import Navbar from "./Navbar";
 import TypeWriter from "./TypeWriter";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
-import { RiFilePdf2Fill } from "react-icons/ri";
 import { BiLogoGithub, BiLogoLinkedin, BiLogoGmail } from "react-icons/bi";
 import { motion } from "framer-motion";
 
